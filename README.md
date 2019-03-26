@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SharpTools/sharpqueue/master/icon/sharpqueue.jpg" width="250px" alt="SharpSenses" />
+  <img src="https://raw.githubusercontent.com/way2-technology/SharpQueue/master/icon/sharpqueue.jpg" width="250px" alt="SharpSenses" />
 </p>
 # SharpQueue
 Ultra simple multithread / multiprocess directory based persistent queue system for C#

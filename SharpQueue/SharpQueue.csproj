@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Company>Way2</Company>
+    <Authors>João Paulo Fiumari and Igor Ramos</Authors>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/way2-technology/SharpQueue</RepositoryUrl>
+    <PackageTags>queue, sharpqueue</PackageTags>
+    <PackageLicenseUrl>https://github.com/way2-technology/SharpQueue/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageId>SharpQueue.Standard</PackageId>
+    <Description>Ultra simple multithread / multiprocess directory based persistent queue system for C#</Description>
+    <PackageIconUrl>https://raw.githubusercontent.com/way2-technology/SharpQueue/master/icon/sharpqueue.jpg</PackageIconUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
